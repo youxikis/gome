@@ -1,0 +1,24 @@
+*{
+	font-family:"Microsoft YaHei",san-serif;
+	font-size: 12px;
+}
+body,h1,h2,h3,h4,h5,h6,p,pre,fieldset,iframe,frameset,frame,ol,ul,li,form,input,textarea,button,dl,dt,dd,select,form,a,div,span{
+   margin:0px;
+   padding:0px;
+
+}
+ul,ol,li{
+   list-style:none;
+
+}
+a{
+   text-decoration:none;
+}
+img{
+  border:none;
+}
+body{
+   background:white;
+
+}
+
